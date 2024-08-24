@@ -26,7 +26,7 @@ Dicas e Estrutura do Projeto
 
     Criando o Reducer (taskReducer.js):
 
-        - Defina os tipos de ações: ADICIONAR_TAREFA, REMOVER_TAREFA, MARCAR_CONCLUIDA, EDITAR_TAREFA.
+        - Defina os tipos de ações: add, remove, completed, edit.
         - Implemente a lógica de cada ação dentro de um switch no reducer.
 
     Organizando os Componentes:
